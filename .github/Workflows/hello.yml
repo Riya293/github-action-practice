@@ -1,6 +1,6 @@
 #Workflow creation
 
-Name: hello
+name: hello
 #on tells when workflow should run
 on: 
   workflow_dispatch: 
